@@ -12,3 +12,7 @@ ul {
 a {
   color: #2F80ED;
 }
+
+fieldset {
+  border: 0;
+}
